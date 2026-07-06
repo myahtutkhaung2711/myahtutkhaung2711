@@ -95,9 +95,9 @@ I enjoy solving real-world problems through clean, efficient code and continuous
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=myahtutkhaung2711&cc=1a1b27&tc=FFFFFF&ic=3B82F6&bc=30363d)](https://github.com/tuhinpal/readme-stats-github)
 <br>
 
-| Profile | Top languages (repos) | Most used languages |
-| :---: | :---: | :---: |
-| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myahtutkhaung2711&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myahtutkhaung2711&theme=github_dark" alt="Top languages by repository"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myahtutkhaung2711&layout=donut&theme=dark&hide_border=true&count_private=true" alt="Top Languages by Commit" width="100%" /> |
+| Profile | Top languages (repos) |
+| :---: | :---: | 
+| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myahtutkhaung2711&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myahtutkhaung2711&theme=github_dark" alt="Top languages by repository"/> | 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myahtutkhaung2711&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 <br><br>
