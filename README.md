@@ -102,8 +102,6 @@ I enjoy solving real-world problems through clean, efficient code and continuous
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myahtutkhaung2711&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 <br><br>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=myahtutkhaung2711&theme=github-compact)
-
 <br><br>
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,react,nextjs,mysql,mongodb,tailwind,bootstrap,git,github,docker,postman,figma&perline=8)](https://skillicons.dev)
