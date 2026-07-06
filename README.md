@@ -1,4 +1,5 @@
-# Hi, I am Mya Htut Khaung 👋
+# Hi, I'm Mya Htut Khaung 👋
+
 ### Junior Full Stack Web Developer
 
 <p align="left">
@@ -15,99 +16,129 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I am a passionate **Junior Full Stack Web Developer** with hands-on experience in building responsive and scalable web applications. I specialize in both front-end and back-end development using modern technologies such as **Laravel, React.js, Next.js, Node.js, and MySQL**.
+I'm a passionate **Junior Full Stack Web Developer** from Myanmar with hands-on experience developing responsive and scalable web applications.
 
-I enjoy solving real-world problems through clean, efficient code and continuously learning new technologies to improve my development skills. My goal is to become a highly skilled Full Stack Developer while contributing to innovative projects and growing professionally.
+My primary stack includes **Laravel, PHP, React.js, Next.js, Node.js, JavaScript, TypeScript, MySQL, and MongoDB**. I enjoy transforming ideas into real-world applications, writing clean and maintainable code, and continuously improving my development skills.
+
+I'm currently seeking opportunities where I can contribute to meaningful projects while growing as a professional Full Stack Developer.
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-| Categories | Technologies & Tools |
+| Category | Technologies |
 | :--- | :--- |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Next.js` |
 | **Backend** | `PHP` `Laravel` `Node.js` `Express.js` `REST API` |
-| **Frontend** | `React.js` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3` |
-| **UI Frameworks** | `Bootstrap` `Tailwind CSS` `Material UI` |
-| **Databases** | `MySQL` `MongoDB` |
-| **Tools & Platforms** | `Git` `GitHub` `Docker` `Postman` `VS Code` `Figma` `XAMPP` |
+| **Database** | `MySQL` `MongoDB` |
+| **UI Libraries** | `Bootstrap` `Tailwind CSS` `Material UI` |
+| **Tools** | `Git` `GitHub` `Docker` `Postman` `VS Code` `Figma` `XAMPP` |
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-#### 💻 Junior Full Stack Web Developer
-**Freelance & Personal Projects** | *2024 April - 2026 March*
+### 💻 Junior Full Stack Web Developer
+**Freelance & Personal Projects** | *April 2024 – Present*
 
-* Developed responsive and modern web applications using Laravel, React.js, Next.js, and Node.js.
-* Built RESTful APIs and integrated third-party services.
-* Designed and implemented database structures using MySQL and MongoDB.
-* Created portfolio websites, management systems, and business web applications.
-* Worked with Git/GitHub for version control and collaborative development.
-* Focused on writing clean, maintainable, and scalable code.
-
----
-
-### 🚀 Featured Projects
-
-#### 🌐 Personal Portfolio Website
-* Built with React.js, Next.js, and Tailwind CSS.
-* Features responsive design, animations, and project showcases.
-
-#### 🏢 Business Management System
-* Developed using Laravel, MySQL, and Bootstrap.
-* Includes authentication, CRUD operations, reporting, and dashboard analytics.
-
-#### 📚 Learning Management System
-* Built using Laravel and React.js.
-* Features user management, course modules, and REST API integration.
+- Built responsive web applications using Laravel, React.js, Next.js, and Node.js.
+- Designed and developed RESTful APIs.
+- Created responsive and user-friendly interfaces.
+- Integrated MySQL and MongoDB databases.
+- Implemented authentication, CRUD operations, and dashboard systems.
+- Used Git and GitHub for version control and collaboration.
+- Focused on clean, maintainable, and scalable code.
 
 ---
 
-### 🎓 Education & Qualifications
+## 🚀 Featured Projects
 
-* 🎓 **BSc (Hons) Computing (Ongoing)** — NCC Education
-* 📜 **Professional Web Development Certificate** — Fairway Technology
-* 📜 **Professional Web UI/UX & Front-End Design Certificate** — Fairway Technology
-* 📜 **Rockstar Developer Course** — Fairway Technology
-* 🇯🇵 **JLPT N5 Japanese Language Certificate**
-* 🇬🇧 **English Proficiency: Intermediate Level**
+### 🌐 Personal Portfolio
+- Modern portfolio built with **Next.js**, **React.js**, and **Tailwind CSS**
+- Responsive UI with smooth animations
+- Project showcase and contact section
+
+### 🏢 Business Management System
+- Laravel + MySQL
+- Authentication & Role Management
+- CRUD Operations
+- Dashboard & Reports
+
+### 📚 Learning Management System
+- Laravel + React.js
+- Course Management
+- Student Management
+- REST API Integration
 
 ---
 
-### 📬 Connect with Me
+## 🎓 Education
 
-* 📍 **Location:** Yangon, Myanmar
-* 📧 **Email:** [myahtutkhaung2002@gmail.com](mailto:myahtutkhaung2002@gmail.com)
-* 💼 **LinkedIn:** [Mya Htut Khaung](https://www.linkedin.com/in/mya-htut-khaung/)
-* 💻 **Portfolio:** https://v0-myahtutkhaung.vercel.app/
-* 🐱 **GitHub:** https://github.com/myahtutkhaung2711
+🎓 **BSc (Hons) Computing (Ongoing)**  
+NCC Education
 
 ---
 
-### 📊 GitHub Statistics
+## 📜 Certifications
+
+- Professional Web Development — Fairway Technology
+- Professional Web UI/UX & Front-End Design — Fairway Technology
+- Rockstar Developer Course — Fairway Technology
+- JLPT N5 Japanese Language Certificate
+
+---
+
+## 🌍 Languages
+
+- 🇬🇧 English — Intermediate
+- 🇯🇵 Japanese — JLPT N5 (Currently studying N3)
+
+---
+
+## 📬 Connect With Me
+
+📍 Yangon, Myanmar
+
+📧 **Email**  
+myahtutkhaung2002@gmail.com
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/mya-htut-khaung/
+
+🌐 **Portfolio**  
+https://v0-myahtutkhaung.vercel.app/
+
+💻 **GitHub**  
+https://github.com/myahtutkhaung2711
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Laravel+%7C+React.js+%7C+Next.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Laravel+•+React.js+•+Next.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 <br>
+
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=myahtutkhaung2711&cc=1a1b27&tc=FFFFFF&ic=3B82F6&bc=30363d)](https://github.com/tuhinpal/readme-stats-github)
+
 <br>
 
-| Profile | Top languages (repos) |
-| :---: | :---: | 
-| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myahtutkhaung2711&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myahtutkhaung2711&theme=github_dark" alt="Top languages by repository"/> | 
+| Profile | Top Languages |
+| :---: | :---: |
+| <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myahtutkhaung2711&theme=github_dark"/> | <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myahtutkhaung2711&theme=github_dark"/> |
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myahtutkhaung2711&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
-<br><br>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myahtutkhaung2711&theme=github-compact&hide_border=true&area=true"/>
 
-<br><br>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,react,nextjs,mysql,mongodb,tailwind,bootstrap,git,github,docker,postman,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,js,ts,mysql,mongodb,tailwind,bootstrap,git,github,docker,postman,figma&perline=8)](https://skillicons.dev)
 
-<br><br>
+<br>
 
-![](https://komarev.com/ghpvc/?username=myahtutkhaung2711&color=blue)
+![](https://komarev.com/ghpvc/?username=myahtutkhaung2711&color=blue&style=flat-square)
 
 </div>
