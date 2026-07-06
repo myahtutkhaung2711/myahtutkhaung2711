@@ -88,12 +88,14 @@ I enjoy solving real-world problems through clean, efficient code and continuous
 
 ### 📊 GitHub Statistics
 
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mobile+App+Developer+%7C+Team+Lead)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;Laravel+%7C+React.js+%7C+Next.js;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
 <br>
-[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=myomyintkyaw2280&cc=1a1b27&tc=FFFFFF&ic=3B82F6&bc=30363d)](https://github.com/tuhinpal/readme-stats-github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myahtutkhaung2711&show_icons=true&theme=github_dark)
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myahtutkhaung2711&layout=compact&theme=github_dark)
