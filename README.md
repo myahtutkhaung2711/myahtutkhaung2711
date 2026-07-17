@@ -107,8 +107,8 @@ myahtutkhaung2002@gmail.com
 💼 **LinkedIn**  
 https://www.linkedin.com/in/mya-htut-khaung/
 
-🌐 **Portfolio**  
-https://v0-myahtutkhaung.vercel.app/
+[🌐 **Portfolio**  
+https://www.myahtutkhaung.com/
 
 💻 **GitHub**  
 https://github.com/myahtutkhaung2711
